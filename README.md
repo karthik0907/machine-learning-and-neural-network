@@ -38,7 +38,7 @@ How to Run the Code
 Clone the repository:
 
 git clone <https://github.com/karthik0907/machine-learning-and-neural-network.git>
-cd <repo-name>
+cd <machine-learning-and-neural-network>
 
 
 Open the Jupyter notebook:
